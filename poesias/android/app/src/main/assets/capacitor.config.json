@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "poesias",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

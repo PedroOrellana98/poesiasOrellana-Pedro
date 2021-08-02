@@ -1,0 +1,7 @@
+{
+  "name": "poesias",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
